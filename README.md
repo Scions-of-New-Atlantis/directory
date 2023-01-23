@@ -31,8 +31,8 @@ Server Directory
 <p><strong>#tts-memes</strong> - for memes related to the TAROT universe</p>
 <p><strong>#the-last-sun-liveblogging </strong>- liveblogging channel for THE LAST SUN; <strong><em>SPOILERS FOR SUBSEQUENT WORKS SHOULD NOT GO HERE</em></strong></p>
 <p><strong>#the-hanged-man-liveblogging</strong>- liveblogging channel for THE HANGED MAN; <strong><em>SPOILERS FOR SUBSEQUENT WORKS SHOULD NOT GO HERE</em></strong></p>
-<p><strong>#the-hourglass-throne-liveblogging</strong>- liveblogging channel for THE LAST SUN; <strong><em>SPOILERS FOR SUBSEQUENT WORKS SHOULD NOT GO HERE</em></strong></p>
-<p><strong>#the-eidolon-liveblogging</strong>- liveblogging channel for THE LAST SUN; <strong><em>SPOILERS FOR SUBSEQUENT WORKS SHOULD NOT GO HERE</em></strong></p>
+<p><strong>#the-hourglass-throne-liveblogging</strong>- liveblogging channel for THE HOURGLASS THRONE; <strong><em>SPOILERS FOR SUBSEQUENT WORKS SHOULD NOT GO HERE</em></strong></p>
+<p><strong>#the-eidolon-liveblogging</strong>- liveblogging channel for THE EIDOLON; <strong><em>SPOILERS FOR SUBSEQUENT WORKS SHOULD NOT GO HERE</em></strong></p>
 <p><strong>#extra-content </strong>- relevant announcements and liveblogging threads for the extra content</p>
 <p><strong>#the-sunken-mall-liveblogging</strong></p>
 <p><strong>#scenes-from-quarantine-liveblogging</strong></p>
